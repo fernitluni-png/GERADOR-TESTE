@@ -1,0 +1,6 @@
+{
+  "name": "IQ Option Script Studio & AI Generator",
+  "description": "Gerador e editor profissional de scripts QuadCode Script (QCS/Lua) para IQ Option com IA, biblioteca de estratégias, validador de sintaxe e documentação oficial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
